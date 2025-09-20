@@ -31,7 +31,7 @@ sysctl -w vm.overcommit_memory=2
 sysctl -w vm.overcommit_ratio=80
 ```
 
-### Stateless
+### Stateless Prod
 
 ```bash
 sysctl -w vm.overcommit_memory=0
