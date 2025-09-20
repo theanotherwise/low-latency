@@ -13,8 +13,8 @@
     <col style="width:220px">
   </colgroup>
   <tr>
-    <td valign="middle" align="left"><a href="SYSCTL.md"><b>Tuning</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSCTL.md"><img alt="SYSCTL TUNING" src="https://img.shields.io/badge/TUNING-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSCTL-GENERAL.md"><b>GENERAL</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTLGENERAL.md"><img alt="SYSCTL GENERAL" src="https://img.shields.io/badge/GENERAL-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
     <td valign="middle" align="left"><a href="SYSCTL-NETWORK.md"><b>Network</b></a></td>
