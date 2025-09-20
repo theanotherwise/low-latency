@@ -35,7 +35,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" align="left"><a href="SYSTEMD.md"><b>General</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSTEMDGENERAL.md"><img alt="SYSTEMD-GENERAL" src="https://img.shields.io/badge/GENERAL-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSTEMD-GENERAL.md"><b>General</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSTEMD-GENERAL.md"><img alt="SYSTEMD-GENERAL" src="https://img.shields.io/badge/GENERAL-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
   </tr>
 </table>
