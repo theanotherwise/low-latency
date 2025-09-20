@@ -2,5 +2,6 @@
 
 ## Quick Links
 
-- [SYSCTL](SYSCTL.md)
-- [SYSTEMD](SYSTEMD.md)
+|  |  |
+|---|---|
+| [SYSCTL](SYSCTL.md) | [SYSTEMD](SYSTEMD.md) |
