@@ -30,3 +30,9 @@ sysctl -w vm.overcommit_memory=1
 sysctl -w vm.overcommit_memory=2
 sysctl -w vm.overcommit_ratio=80
 ```
+
+### Stateless
+
+```bash
+sysctl -w vm.overcommit_memory=0
+```
