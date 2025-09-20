@@ -34,6 +34,10 @@
     <td valign="middle" align="right" width="220"><a href="SYSCTL-HIGH-PPS.md"><img alt="SYSCTL HIGH_PPS" src="https://img.shields.io/badge/HIGH_PPS-ef4444?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
+    <td valign="middle" align="left"><a href="SYSCTL-FS-LIMITS.md"><b>FS limits</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTL-FS-LIMITS.md"><img alt="SYSCTL FS_LIMITS" src="https://img.shields.io/badge/FS_LIMITS-22c55e?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+  </tr>
+  <tr>
     <td valign="middle" align="left"><a href="SYSCTL-THP.md"><b>THP</b></a></td>
     <td valign="middle" align="right" width="220"><a href="SYSCTL-THP.md"><img alt="SYSCTL THP" src="https://img.shields.io/badge/THP-eab308?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
