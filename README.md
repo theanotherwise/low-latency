@@ -2,7 +2,6 @@
 
 ## Index
 
- 
 ### SYSCTL
 
 <table width="100%">
@@ -32,7 +31,6 @@
   </tr>
 </table>
 
- 
 ### SYSTEMD
 
 <table width="100%">
