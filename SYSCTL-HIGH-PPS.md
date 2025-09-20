@@ -1,5 +1,3 @@
-# SYSCTL-High PPS
-
 ```bash
 # High number of TIME_WAIT
 sysctl net.ipv4.tcp_max_tw_buckets

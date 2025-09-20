@@ -1,5 +1,3 @@
-# Devices / Sockets
-
 ```bash
 sysctl vm.max_map_count
 sysctl net.core.somaxconn

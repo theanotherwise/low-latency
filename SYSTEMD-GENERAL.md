@@ -1,5 +1,3 @@
-# SystemD
-
 ```bash
 [Service]
 LimitCORE=infinity

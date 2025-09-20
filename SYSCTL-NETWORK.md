@@ -1,5 +1,3 @@
-# Network
-
 ```bash
 sysctl net.ipv4.tcp_fin_timeout
 sysctl net.ipv4.tcp_tw_reuse
