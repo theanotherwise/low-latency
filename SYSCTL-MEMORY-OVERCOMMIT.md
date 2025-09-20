@@ -1,36 +1,17 @@
-## Memory Overcommit
 ```bash
 sysctl vm.overcommit_memory
-```
 
-```bash
 grep -E 'CommitLimit|Committed_AS|MemTotal|SwapTotal' /proc/meminfo
 ```
 
-### Test / Dev Environments
-
 ```bash
+# Test / Dev Environments
 sysctl -w vm.overcommit_memory=1
-```
 
-### DB / Kafka
-
-```bash
+# DB / Kafka
 sysctl -w vm.overcommit_memory=2
 sysctl -w vm.overcommit_ratio=80
-```
 
-### Stateless Prod
-
-```bash
+# Stateless
 sysctl -w vm.overcommit_memory=0
-```
-
-## SWAP Memory
-
-```bash
-vm.swappiness=1
-
-vm.dirty_ratio=10
-vm.dirty_background_ratio=5
 ```
