@@ -65,4 +65,9 @@ sysctl net.ipv4.tcp_window_scaling
 ### Set
 
 ```bash
+sysctl -w net.ipv4.tcp_fin_timeout=5
+sysctl -w net.ipv4.tcp_tw_reuse=1
+sysctl -w net.ipv4.tcp_timestamps=1
+sysctl -w net.ipv4.tcp_sack=1
+sysctl -w net.ipv4.tcp_window_scaling=1
 ```
