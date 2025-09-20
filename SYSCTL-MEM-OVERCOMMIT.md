@@ -1,3 +1,4 @@
+## Memory Overcommit
 ```bash
 sysctl vm.overcommit_memory
 ```
@@ -23,4 +24,13 @@ sysctl -w vm.overcommit_ratio=80
 
 ```bash
 sysctl -w vm.overcommit_memory=0
+```
+
+## SWAP Memory
+
+```bash
+vm.swappiness=1
+
+vm.dirty_ratio=10
+vm.dirty_background_ratio=5
 ```
