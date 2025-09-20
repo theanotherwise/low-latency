@@ -1,5 +1,7 @@
 ```bash
+# Total
 sysctl fs.file-max
+# Per process
 sysctl fs.nr_open
 sysctl fs.inotify.max_user_instances
 sysctl fs.inotify.max_user_watches
