@@ -6,8 +6,8 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" align="left"><a href="SYSCTL-GENERAL.md"><b>GENERAL</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSCTLGENERAL.md"><img alt="SYSCTL GENERAL" src="https://img.shields.io/badge/GENERAL-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSCTL-GENERAL.md"><b>General</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTL-GENERAL.md"><img alt="SYSCTL GENERAL" src="https://img.shields.io/badge/GENERAL-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
     <td valign="middle" align="left"><a href="SYSCTL-NETWORK.md"><b>Network</b></a></td>
@@ -35,7 +35,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" align="left"><a href="SYSTEMD.md"><b>Systemd</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSTEMD.md"><img alt="SYSTEMD" src="https://img.shields.io/badge/SYSTEMD-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSTEMD.md"><b>General</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSTEMDGENERAL.md"><img alt="SYSTEMD-GENERAL" src="https://img.shields.io/badge/GENERAL-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
   </tr>
 </table>
