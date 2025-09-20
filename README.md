@@ -73,3 +73,26 @@ sysctl -w net.ipv4.tcp_keepalive_time=300
 sysctl -w net.ipv4.tcp_keepalive_intvl=60
 sysctl -w net.ipv4.tcp_keepalive_probes=5
 ```
+## Ports
+
+```bash
+sysctl net.ipv4.ip_local_port_range
+```
+
+```bash
+sysctl -w net.ipv4.ip_local_port_range="1024 65535"
+```
+
+## High PPS
+
+```bash
+sysctl net.ipv4.tcp_max_tw_buckets
+sysctl net.core.dev_weight
+sysctl net.core.dev_weight_rx_bias
+```
+
+```bash
+sysctl -w net.ipv4.tcp_max_tw_buckets=2000000
+sysctl -w net.core.dev_weight=300
+sysctl -w net.core.dev_weight_rx_bias=64
+```
