@@ -1,10 +1,19 @@
 # ⚡ Low Latency
 
-<p align="center">
-  <a href="SYSCTL.md">
-    <img alt="SYSCTL" src="https://img.shields.io/badge/SYSCTL-TUNING-0ea5e9?style=for-the-badge&logo=linux&logoColor=white">
-  </a>
-  <a href="SYSTEMD.md">
-    <img alt="SYSTEMD" src="https://img.shields.io/badge/SYSTEMD-TUNING-7c3aed?style=for-the-badge&logo=systemd&logoColor=white">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <a href="SYSCTL.md">
+        <img src="https://cdn.simpleicons.org/linux/0ea5e9" width="56" height="56" alt="Linux"><br>
+        <b>SYSCTL</b>
+      </a>
+    </td>
+    <td align="center" width="280">
+      <a href="SYSTEMD.md">
+        <img src="https://cdn.simpleicons.org/systemd/7c3aed" width="56" height="56" alt="systemd"><br>
+        <b>SYSTEMD</b>
+      </a>
+    </td>
+  </tr>
+  
+</table>
