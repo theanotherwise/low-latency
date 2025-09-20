@@ -1,6 +1,4 @@
-# `systemd`
-
-## Resource usage
+# SystemD
 
 ```bash
 [Service]

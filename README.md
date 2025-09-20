@@ -35,7 +35,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" align="left"><a href="SYSTEMD.md"><b>Tuning</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSTEMD.md"><img alt="SYSTEMD TUNING" src="https://img.shields.io/badge/TUNING-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSTEMD.md"><b>Systemd</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSTEMD.md"><img alt="SYSTEMD" src="https://img.shields.io/badge/TUNING-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
   </tr>
 </table>
