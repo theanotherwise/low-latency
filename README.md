@@ -22,8 +22,12 @@
     <td valign="middle" align="right" width="220"><a href="SYSCTL-TCP-MEM.md"><img alt="SYSCTL TCP_MEM" src="https://img.shields.io/badge/TCP_MEM-14b8a6?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
-    <td valign="middle" align="left"><a href="SYSCTL-MEM-OVERCOMMIT.md"><b>Mem overcommit</b></a></td>
-    <td valign="middle" align="right" width="220"><a href="SYSCTL-MEM-OVERCOMMIT.md"><img alt="SYSCTL MEM_OVER" src="https://img.shields.io/badge/MEM_OVER-06b6d4?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+    <td valign="middle" align="left"><a href="SYSCTL-MEMORY-OVERCOMMIT.md"><b>Mem overcommit</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTL-MEMORY-OVERCOMMIT.md"><img alt="SYSCTL MEM_OVER" src="https://img.shields.io/badge/MEM_OVER-06b6d4?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+  </tr>
+  <tr>
+    <td valign="middle" align="left"><a href="SYSCTL-MEMORY-SWAP.md"><b>Swap</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTL-MEMORY-SWAP.md"><img alt="SYSCTL SWAP" src="https://img.shields.io/badge/SWAP-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
     <td valign="middle" align="left"><a href="SYSCTL-HIGH-PPS.md"><b>High PPS</b></a></td>
