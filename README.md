@@ -2,6 +2,8 @@
 
 ## TCP Buffers
 
+### Check
+
 ```bash
 sysctl net.core.rmem_max
 sysctl net.core.wmem_max
@@ -10,6 +12,8 @@ sysctl net.core.wmem_default
 sysctl net.ipv4.tcp_rmem
 sysctl net.ipv4.tcp_wmem
 ```
+
+### Set
 
 ```bash
 sysctl -w net.core.rmem_max=16777216
@@ -22,6 +26,8 @@ sysctl -w net.ipv4.tcp_wmem="4096 524288 16777216"
 
 ## Devices / Sockets
 
+### Check
+
 ```bash
 sysctl vm.max_map_count
 sysctl net.core.somaxconn
@@ -29,6 +35,8 @@ sysctl net.ipv4.tcp_max_syn_backlog
 sysctl net.core.optmem_max
 sysctl net.core.netdev_max_backlog
 ```
+
+### Set
 
 ```
 sysctl -w vm.max_map_count=262144
