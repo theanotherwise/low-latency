@@ -22,6 +22,10 @@
     <td valign="middle" align="right" width="220"><a href="SYSCTL-TCP-MEM.md"><img alt="SYSCTL TCP_MEM" src="https://img.shields.io/badge/TCP_MEM-14b8a6?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
   <tr>
+    <td valign="middle" align="left"><a href="SYSCTL-MEM-OVERCOMMIT.md"><b>Mem overcommit</b></a></td>
+    <td valign="middle" align="right" width="220"><a href="SYSCTL-MEM-OVERCOMMIT.md"><img alt="SYSCTL MEM_OVER" src="https://img.shields.io/badge/MEM_OVER-06b6d4?style=for-the-badge&logo=linux&logoColor=white"></a></td>
+  </tr>
+  <tr>
     <td valign="middle" align="left"><a href="SYSCTL-HIGH-PPS.md"><b>High PPS</b></a></td>
     <td valign="middle" align="right" width="220"><a href="SYSCTL-HIGH-PPS.md"><img alt="SYSCTL HIGH_PPS" src="https://img.shields.io/badge/HIGH_PPS-ef4444?style=for-the-badge&logo=linux&logoColor=white"></a></td>
   </tr>
