@@ -2,16 +2,10 @@
 
 ## Index
 
-<p align="center"><a href="#sysctl">SYSCTL</a> • <a href="#systemd">SYSTEMD</a></p>
-
-<a id="sysctl"></a>
+ 
 ### SYSCTL
 
 <table width="100%">
-  <colgroup>
-    <col>
-    <col style="width:220px">
-  </colgroup>
   <tr>
     <td valign="middle" align="left"><a href="SYSCTL-GENERAL.md"><b>GENERAL</b></a></td>
     <td valign="middle" align="right" width="220"><a href="SYSCTLGENERAL.md"><img alt="SYSCTL GENERAL" src="https://img.shields.io/badge/GENERAL-0ea5e9?style=for-the-badge&logo=linux&logoColor=white"></a></td>
@@ -38,14 +32,10 @@
   </tr>
 </table>
 
-<a id="systemd"></a>
+ 
 ### SYSTEMD
 
 <table width="100%">
-  <colgroup>
-    <col>
-    <col style="width:220px">
-  </colgroup>
   <tr>
     <td valign="middle" align="left"><a href="SYSTEMD.md"><b>Systemd</b></a></td>
     <td valign="middle" align="right" width="220"><a href="SYSTEMD.md"><img alt="SYSTEMD" src="https://img.shields.io/badge/SYSTEMD-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
